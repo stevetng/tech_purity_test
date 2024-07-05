@@ -56,6 +56,7 @@ const questions = [
     "Part of a failed startup and blamed it on \"market conditions\"?",
     "Claimed that you only need to capture 0.1% of the market in a pitch deck.",
     "Read Atomic Habits but have less than Atomic Habits?",
+    "Quoted Naval Ravikant more than 5 times in your life",
     "You've said you're making the world a better place but work at Meta?",
     "Called yourself a strategist when you're literally 22 years old?",
     "Claimed Harvard on your LinkedIn when you were in their extension school?",
